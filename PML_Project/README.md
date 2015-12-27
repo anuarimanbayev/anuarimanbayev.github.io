@@ -3,7 +3,7 @@ Practical Machine Learning Project
 
 ### Assignment  
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity 
-relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts who take measurements 
+relatively inexpensively. These type of devices are part of the quantified self movement â€“ a group of enthusiasts who take measurements 
 about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that 
 people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, 
 your goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform 
@@ -15,4 +15,5 @@ The goal of your project is to predict the manner in which they did the exercise
 1. Your submission should consist of a link to a Github repo with your R markdown and compiled HTML file describing your analysis. Please constrain the text of the writeup to < 2000 words and the number of figures to be less than 5. It will make it easier for the graders if you submit a repo with a gh-pages branch so the HTML page can be viewed online (and you always want to make it easy on graders :-).
 2. You should also apply your machine learning algorithm to the 20 test cases available in the test data above. Please submit your predictions in appropriate format to the programming assignment for automated grading. See the programming assignment for additional details. 
 
-Link to the page: [click here](github pages io link goes here)
+Link to the page: [click here](https://github.com/anuarimanbayev/anuarimanbayev.github.io/tree/master/PML_Project)
+Link to RPubs page: [click here](http://rpubs.com/anuariman87/PML_Project)
