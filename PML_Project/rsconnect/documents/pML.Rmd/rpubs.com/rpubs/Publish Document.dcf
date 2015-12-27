@@ -1,0 +1,8 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/137642/460abea311104bd7b4be2355deba8035
+url:
+        http://rpubs.com/publish/claim/137642/485a6f3e3079443686cde4bbd4753a61
+when: 1451192436.75758
