@@ -26,7 +26,7 @@ shinyUI(
                                                  p("March-April 2016"),
                                                  hr(),
                                                  h6("Contact Links for Anuar Imanbayev:"),
-                                                 a(img(src = "GitHub.png", height = 30, width = 30),href="https://github.com/anuarimanbayev/datasciencecoursera/tree/master/CapstoneProject"),
+                                                 a(img(src = "GitHub.png", height = 30, width = 30),href="https://github.com/anuarimanbayev/anuarimanbayev.github.io"),
                                                  a(img(src = "linkedin.png", height = 26, width = 26),href="https://www.linkedin.com/in/anuarimanbayev"),
                                                  a(img(src = "gmail.jpeg", height = 30, width = 30),href="mailto: anuar.imanbayev@gmail.com"),
                                                  br()
@@ -49,7 +49,7 @@ shinyUI(
                                                    
                                                    p('More details of the prediction algorithm and source codes', 
                                                      code("server.R"), code("ui.R"), code("funcPredictNextWord.R"), code("funcPredictWordCloud.R"), code("funcTokenization.R"), code("funcNGramSplit.R"), 
-                                                     'can be found at', a("Capstone Project Shiny App.",href="https://github.com/anuarimanbayev/datasciencecoursera/tree/master/CapstoneProject"))
+                                                     'can be found at', a("Capstone Project Shiny App.",href="https://github.com/anuarimanbayev/anuarimanbayev.github.io"))
                                             ),
                                             column(5,
                                                    h3("Word Cloud Diagram"),hr(),
@@ -86,7 +86,7 @@ shinyUI(
                                                  p("March-April 2016"),
                                                  hr(),
                                                  h6("Contact Links for Anuar Imanbayev:"),
-                                                 a(img(src = "GitHub.png", height = 30, width = 30),href="https://github.com/anuarimanbayev/datasciencecoursera/tree/master/CapstoneProject"),
+                                                 a(img(src = "GitHub.png", height = 30, width = 30),href="https://github.com/anuarimanbayev/anuarimanbayev.github.io"),
                                                  a(img(src = "linkedin.png", height = 26, width = 26),href="https://www.linkedin.com/in/anuarimanbayev"),
                                                  a(img(src = "gmail.jpeg", height = 30, width = 30),href="mailto: anuar.imanbayev@gmail.com"),
                                                  br(),hr()
@@ -203,7 +203,7 @@ shinyUI(
                                                             p("March-April 2016"),
                                                             hr(),
                                                             h6("Contact Links for Anuar Imanbayev:"),
-                                                            a(img(src = "GitHub.png", height = 30, width = 30),href="https://github.com/anuarimanbayev/datasciencecoursera/tree/master/CapstoneProject"),
+                                                            a(img(src = "GitHub.png", height = 30, width = 30),href="https://github.com/anuarimanbayev/anuarimanbayev.github.io"),
                                                             a(img(src = "linkedin.png", height = 26, width = 26),href="https://www.linkedin.com/in/anuarimanbayev"),
                                                             a(img(src = "gmail.jpeg", height = 30, width = 30),href="mailto: anuar.imanbayev@gmail.com"),
                                                             br()),
